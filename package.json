@@ -1,0 +1,25 @@
+{
+  "name": "most repeated words",
+  "version": "1.0.0",
+  "description": "show case the best solution",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "npx tsc -p tsconfig.json && node -r esm dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iambigJ/sometest.git"
+  },
+  "author": "ali.javadi <alijavadij@gmail.com> ",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/iambigJ/sometest/issues"
+  },
+  "homepage": "https://github.com/iambigJ/sometest#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "tsc": "^2.0.4",
+    "typescript": "^5.2.2"
+  }
+}
