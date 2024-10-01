@@ -15,6 +15,7 @@ Ties may be broken arbitrarily. If a text contains fewer than three unique words
 then either the top-2 or top-1 words should be returned, or an empty array if a
 text contains no words.
 Examples:
+
 top_3_words("In a village of La Mancha, the name of which I have
 no desire to call to
 mind, there lived not long since one of those gentlemen that keep a lance

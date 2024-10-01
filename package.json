@@ -13,13 +13,10 @@
   },
   "author": "ali.javadi <alijavadij@gmail.com> ",
   "license": "GPL",
-  "bugs": {
-    "url": "https://github.com/iambigJ/sometest/issues"
-  },
-  "homepage": "https://github.com/iambigJ/sometest#readme",
-  "dependencies": {
+  "devDependencies": {
     "esm": "^3.2.25",
     "tsc": "^2.0.4",
+    "@types/node": "^20.16.6",
     "typescript": "^5.2.2"
   }
 }
